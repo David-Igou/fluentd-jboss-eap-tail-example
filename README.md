@@ -49,9 +49,9 @@ We produce the JSON:
     "@timestamp": "2019-08-06T10:18:27.000000000-04:00",
     "@log_name": "my.node.eap.logs"
   }
- 
+ ```
 and
- 
+```
   "_source": {
     "level": "DEBUG",
     "thread": "org.jboss.as.config",
