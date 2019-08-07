@@ -55,7 +55,7 @@ and
   "_source": {
     "level": "DEBUG",
     "thread": "org.jboss.as.config",
-    "message": "This\n is really\n huge\n redacted\n [etc] \n",
+    "message": "(MSC service thread 1-1) Configured system properties:\n    file.encoding = UTF-8\n    file.encoding.pkg = sun.io\n    file.separator = /\n    java.awt.graphicsenv = sun.awt.X11GraphicsEnvironment\n    java.awt.headless = true\n    java.awt.printerjob = sun.print.PSPrinterJob\n    java.class.version = 52.0\n    java.io.tmpdir = /tmp\n    [etc]",
     "@timestamp": "2019-08-06T10:18:27.000000000-04:00",
     "@log_name": "my.node.eap.logs"
   }
